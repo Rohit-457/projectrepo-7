@@ -58,7 +58,7 @@
         <p>
             Wishing you a day filled with love and joy! May your Valentine's Day be as special as you are.
         </p>
-        <a href="https://www.example.com" class="button">Find the Perfect Gift</a>
+        <a href="https://www.barish.cloud" class="button">Find the Perfect Gift</a>
         <div class="footer">
             &copy; 2024 Your Company. All rights reserved.
         </div>
